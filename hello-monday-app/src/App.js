@@ -3,8 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
-    // state = { loading: false };
-    state = { loading: true };
+    state = { loading: false };
+    // state = { loading: true };
 
     componentDidMount() {
         // 测试 devServer 的代理功能
