@@ -44,6 +44,10 @@ export class Main extends React.Component {
 				</div> */}
 
 				<div>
+					<FreshFav />
+				</div>
+
+				<div>
 					<TakingOff />
 				</div>
 

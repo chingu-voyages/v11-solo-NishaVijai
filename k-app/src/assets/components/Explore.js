@@ -74,7 +74,7 @@ export class Explore extends React.Component {
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
-								<img className="left-image" src={require('../images/watch.jpg')} alt="" /> <br />
+								<img className="left-image" src={require('../images/triwa-watch.jpg')} alt="" /> <br />
 								Made from melted-down firearms, TRIWA watches aim to end gun violence
 							</a>
 							<a
