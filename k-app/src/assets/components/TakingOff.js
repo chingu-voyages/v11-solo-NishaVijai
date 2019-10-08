@@ -18,187 +18,191 @@ export class TakingOff extends React.Component {
 						<div className="homestretch-text">
 							<a
 								className="homestretch-link"
-								href="https://www.kickstarter.com/projects/961467660/stories-ii?ref=section-homepage-projectcollection-1-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/misenkitchen/misen-kickstarter-no4?ref=section-homepage-projectcollection-1-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
-								<img className="homestretch-image" src={require('../images/hs-stories.jpg')} alt="" />
+								<img className="homestretch-image" src={require('../images/to-kitchen.jpg')} alt="" />
 								{/* <button>
 									<img className="heart" src={require('../images/svgexport-8.png')} alt="" />Remind Me
 								</button> */}
 								<br />
-								Stories II
+								Misen 2.0 - Essential Kitchen Tools Reimagined
 							</a>
 
 							<a
 								className="link-no-underline"
-								href="https://www.kickstarter.com/projects/961467660/stories-ii?ref=section-homepage-projectcollection-1-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/misenkitchen/misen-kickstarter-no4?ref=section-homepage-projectcollection-1-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
 								<p>
-									Stories II is my 2nd collection of photographs, published in a book, taken over a
-									year.
+									Essential kitchen tools, reimagined. No gimmicks. No BS marketing claims. Just
+									premium materials, thoughtful design and honest prices.
 								</p>
 							</a>
 							<a
 								className="black-link"
-								href="https://www.kickstarter.com/projects/961467660/stories-ii?ref=section-homepage-projectcollection-1-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/misenkitchen/misen-kickstarter-no4?ref=section-homepage-projectcollection-1-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								By <span className="name-underline">Alexandre Mendez</span>
+								By <span className="name-underline">Misen</span>
 							</a>
 						</div>
 
 						<div className="homestretch-text">
 							<a
 								className="homestretch-link"
-								href="https://www.kickstarter.com/projects/adamctierney/those-kids-u-know-an-encyclopedia-of-high-school-deviants?ref=section-homepage-projectcollection-2-staff-picks-ending-soon"
-								target="_blank"
-								rel="noopener  noreferrer"
-							>
-								<img className="homestretch-image" src={require('../images/hs-kids.png')} alt="" />{' '}
-								<br />
-								THOSE KIDS U KNOW: An Encyclopedia of High School Deviants
-							</a>
-
-							<a
-								className="link-no-underline"
-								href="https://www.kickstarter.com/projects/adamctierney/those-kids-u-know-an-encyclopedia-of-high-school-deviants?ref=section-homepage-projectcollection-2-staff-picks-ending-soon"
-								target="_blank"
-								rel="noopener  noreferrer"
-							>
-								<br />
-								<p>
-									A funky fresh A-to-Z illustrated children's book (sorta?) about the different types
-									of high school kids!
-								</p>
-							</a>
-							<a
-								className="black-link"
-								href="https://www.kickstarter.com/projects/adamctierney/those-kids-u-know-an-encyclopedia-of-high-school-deviants?ref=section-homepage-projectcollection-2-staff-picks-ending-soon"
-								target="_blank"
-								rel="noopener  noreferrer"
-							>
-								<br />
-								By <span className="name-underline">Adam Tierney</span>
-							</a>
-						</div>
-
-						<div className="homestretch-text">
-							<a
-								className="homestretch-link"
-								href="https://www.kickstarter.com/projects/paul-du-coudray/the-orange-who-ruled-the-world?ref=section-homepage-projectcollection-3-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/nichtlustig/moviecliches?ref=section-homepage-projectcollection-2-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<img
 									className="homestretch-image"
-									src={require('../images/hs-orange.jpg')}
+									src={require('../images/ff-movie.png')}
 									alt=""
 								/>{' '}
 								<br />
-								The Orange Who Ruled The World
+								MOVIE CLICHÉS - the card game
 							</a>
 
 							<a
 								className="link-no-underline"
-								href="https://www.kickstarter.com/projects/paul-du-coudray/the-orange-who-ruled-the-world?ref=section-homepage-projectcollection-3-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/nichtlustig/moviecliches?ref=section-homepage-projectcollection-2-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								<p>
-									We aim to bring this story to life in a unique full-color book — illustrated by
-									Charlotte Dumortier and written by Benjamin Rosenbaum.
-								</p>
+								<p>A card game made by (bad) movies.</p>
 							</a>
 							<a
 								className="black-link"
-								href="https://www.kickstarter.com/projects/paul-du-coudray/the-orange-who-ruled-the-world?ref=section-homepage-projectcollection-3-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/nichtlustig/moviecliches?ref=section-homepage-projectcollection-2-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								By <span className="name-underline">Paul du Coudray</span>
+								By <span className="name-underline">Joscha Sauer</span>
 							</a>
 						</div>
 
 						<div className="homestretch-text">
 							<a
 								className="homestretch-link"
-								href="https://www.kickstarter.com/projects/briecs/homunculus-assembly-line?ref=section-homepage-projectcollection-4-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/rockfishgames/everspace-2?ref=section-homepage-projectcollection-3-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<img
 									className="homestretch-image"
-									src={require('../images/hs-assembly.png')}
+									src={require('../images/to-everspace.jpg')}
 									alt=""
 								/>{' '}
 								<br />
-								Homunculus Assembly Line
+								EVERSPACE 2
 							</a>
 
 							<a
 								className="link-no-underline"
-								href="https://www.kickstarter.com/projects/briecs/homunculus-assembly-line?ref=section-homepage-projectcollection-4-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/rockfishgames/everspace-2?ref=section-homepage-projectcollection-3-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								<p>An experimental roleplaying game art zine.</p>
+								<p>
+									An open-world space shooter with deep exploration, sophisticated RPG elements and an
+									engaging sci-fi story; the sequel to EVERSPACE.
+								</p>
 							</a>
-
 							<a
 								className="black-link"
-								href="https://www.kickstarter.com/projects/briecs/homunculus-assembly-line?ref=section-homepage-projectcollection-4-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/rockfishgames/everspace-2?ref=section-homepage-projectcollection-3-staff-picks-popular"
+								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								By <span className="name-underline">Brie Sheldon</span>
+								By <span className="name-underline">ROCKFISH Games</span>
 							</a>
 						</div>
 
 						<div className="homestretch-text">
 							<a
 								className="homestretch-link"
-								href="https://www.kickstarter.com/projects/lotfw/leaders-of-the-free-world-issue-2?ref=section-homepage-projectcollection-5-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/1162110258/time-of-legends-joan-of-arc-15?ref=section-homepage-projectcollection-4-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<img
 									className="homestretch-image"
-									src={require('../images/hs-issue.jpg')}
+									src={require('../images/to-legends.jpg')}
 									alt=""
 								/>{' '}
 								<br />
-								Leaders of the Free World Issue #2
+								Time of Legends: Joan of Arc 1.5
 							</a>
 
 							<a
 								className="link-no-underline"
-								href="https://www.kickstarter.com/projects/lotfw/leaders-of-the-free-world-issue-2?ref=section-homepage-projectcollection-5-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/1162110258/time-of-legends-joan-of-arc-15?ref=section-homepage-projectcollection-4-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
 								<p>
-									Five heroes from around the world must put aside their differences & team up with a
-									super villain to save the world. But at what cost?
+									The legendary game is back! Relive the golden age of chivalry in this 2-4 player
+									scenario-based board game of medieval battle and myth.
 								</p>
 							</a>
+
 							<a
 								className="black-link"
-								href="https://www.kickstarter.com/projects/lotfw/leaders-of-the-free-world-issue-2?ref=section-homepage-projectcollection-5-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/1162110258/time-of-legends-joan-of-arc-15?ref=section-homepage-projectcollection-4-staff-picks-popular"
+								rel="noopener  noreferrer"
+							>
+								<br />
+								By <span className="name-underline">Mythic Games, Inc.</span>
+							</a>
+						</div>
+
+						<div className="homestretch-text">
+							<a
+								className="homestretch-link"
+								href="https://www.kickstarter.com/projects/1874428722/printpen-portable-printer-for-all-materials-and-surfaces?ref=section-homepage-projectcollection-5-staff-picks-popular"
+								target="_blank"
+								rel="noopener  noreferrer"
+							>
+								<img
+									className="homestretch-image"
+									src={require('../images/to-printpen.jpg')}
+									alt=""
+								/>{' '}
+								<br />
+								PrintPen: Portable Printer for all Materials and Surfaces
+							</a>
+
+							<a
+								className="link-no-underline"
+								href="https://www.kickstarter.com/projects/1874428722/printpen-portable-printer-for-all-materials-and-surfaces?ref=section-homepage-projectcollection-5-staff-picks-popular"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								By <span className="name-underline">Lakel Pruitt</span>
+								<p>
+									A pocket-size tool that allows you to transfer your ideas from your head to the real
+									world anytime, anywhere.
+								</p>
+							</a>
+							<a
+								className="black-link"
+								href="https://www.kickstarter.com/projects/1874428722/printpen-portable-printer-for-all-materials-and-surfaces?ref=section-homepage-projectcollection-5-staff-picks-popular"
+								target="_blank"
+								rel="noopener  noreferrer"
+							>
+								<br />
+								By <span className="name-underline">EVEBOT</span>
 							</a>
 						</div>
 					</div>

@@ -12,6 +12,7 @@ h5 {
     height: 100%;
     justify-content: space-around;
     /* justify-content: space-between; */
+    padding: 40px 60px;
 }
 
 .anchor {
@@ -38,5 +39,5 @@ h5 {
 }
 
 .cont {
-    padding: 40px 0;
+    /* padding: 40px 0; */
 }

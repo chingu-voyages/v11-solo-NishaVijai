@@ -13,64 +13,62 @@ export class Shapeshift extends React.Component {
 					<div className="design-text">
 						<a
 							className="design-link left-line"
-							href="https://thecreativeindependent.com/guides/how-to-begin-designing-for-diversity/?ref=section-homepage-promo-designing-for-diversity"
+							href="https://www.kickstarter.com/shapeshift?ref=section-homepage-promo-shapeshift"
 							target="_blank"
 							rel="noopener  noreferrer"
 						>
-							<img className="left-image" src={require('../images/1-Hero.png')} alt="" /> <br />
-							Designing for diversity
+							<img className="left-image" src={require('../images/plant-recycle.jpg')} alt="" /> <br />
+							Shapeshift
 						</a>
 
 						<a
 							className="link-no-underline left-line"
-							href="https://thecreativeindependent.com/guides/how-to-begin-designing-for-diversity/?ref=section-homepage-promo-designing-for-diversity"
+							href="https://www.kickstarter.com/shapeshift?ref=section-homepage-promo-shapeshift"
 							target="_blank"
 							rel="noopener  noreferrer"
 						>
 							<br />
-							A guide to help you start building equitable products, services, and content, written by
-							Boyuan Gao and Jahan Mantin of Project Inkblot.
+							Bold new products made from recycled materials.
 						</a>
 						<a
 							className="blue-link"
-							href="https://thecreativeindependent.com/guides/how-to-begin-designing-for-diversity/?ref=section-homepage-promo-designing-for-diversity"
+							href="https://www.kickstarter.com/shapeshift?ref=section-homepage-promo-shapeshift"
 							target="_blank"
 							rel="noopener  noreferrer"
 						>
 							<br />
-							Read on The Creative Independent
+							View projects
 						</a>
 					</div>
 
 					<div className="design-text">
 						<a
 							className="design-link left-line"
-							href="https://podcast.kickstarter.com/?ref=section-homepage-promo-just-the-beginning"
+							href="https://www.kickstarter.com/social-art-network?ref=section-homepage-promo-kickstarter-x-social-art-network"
 							target="_blank"
 							rel="noopener  noreferrer"
 						>
-							<img className="left-image" src={require('../images/design-1.jpg')} alt="" /> <br />
-							Just the Beginning
+							<img className="left-image" src={require('../images/smile-people.jpg')} alt="" /> <br />
+							Kickstarter x Social Art Network
 						</a>
 
 						<a
 							className="link-no-underline left-line"
-							href="https://podcast.kickstarter.com/?ref=section-homepage-promo-just-the-beginning"
+							href="https://www.kickstarter.com/social-art-network?ref=section-homepage-promo-kickstarter-x-social-art-network"
 							target="_blank"
 							rel="noopener  noreferrer"
 						>
 							<br />
-							Our new podcast features stories about how independent creators bring their ideas to life.
-							Listen to the first season now.
+							Explore projects from UK-based artists highlighting urgent social and political issues.
 						</a>
 						<a
 							className="blue-link"
-							href="https://podcast.kickstarter.com/?ref=section-homepage-promo-just-the-beginning"
+							href="https://www.kickstarter.com/social-art-network?ref=section-homepage-promo-kickstarter-x-social-art-network"
 							target="_blank"
 							rel="noopener  noreferrer"
 						>
 							<br />
-							Listen and subscribe
+							View projects
 						</a>
 					</div>
 				</div>

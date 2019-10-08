@@ -18,187 +18,188 @@ export class FreshFav extends React.Component {
 						<div className="homestretch-text">
 							<a
 								className="homestretch-link"
-								href="https://www.kickstarter.com/projects/961467660/stories-ii?ref=section-homepage-projectcollection-1-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/woostergroup/the-wooster-group-the-mother-help?ref=section-homepage-projectcollection-1-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
-								<img className="homestretch-image" src={require('../images/hs-stories.jpg')} alt="" />
+								<img className="homestretch-image" src={require('../images/ff-mother.jpg')} alt="" />
 								{/* <button>
 									<img className="heart" src={require('../images/svgexport-8.png')} alt="" />Remind Me
 								</button> */}
 								<br />
-								Stories II
+								THE WOOSTER GROUP / THE MOTHER / HELP!
 							</a>
 
 							<a
 								className="link-no-underline"
-								href="https://www.kickstarter.com/projects/961467660/stories-ii?ref=section-homepage-projectcollection-1-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/woostergroup/the-wooster-group-the-mother-help?ref=section-homepage-projectcollection-1-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
 								<p>
-									Stories II is my 2nd collection of photographs, published in a book, taken over a
-									year.
+									Help The Wooster Group bring to life Brecht’s play The Mother (meant to incite
+									social change) (and entertain at the same time).
 								</p>
 							</a>
 							<a
 								className="black-link"
-								href="https://www.kickstarter.com/projects/961467660/stories-ii?ref=section-homepage-projectcollection-1-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/woostergroup/the-wooster-group-the-mother-help?ref=section-homepage-projectcollection-1-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								By <span className="name-underline">Alexandre Mendez</span>
+								By <span className="name-underline">The Wooster Group</span>
 							</a>
 						</div>
 
 						<div className="homestretch-text">
 							<a
 								className="homestretch-link"
-								href="https://www.kickstarter.com/projects/adamctierney/those-kids-u-know-an-encyclopedia-of-high-school-deviants?ref=section-homepage-projectcollection-2-staff-picks-ending-soon"
-								target="_blank"
-								rel="noopener  noreferrer"
-							>
-								<img className="homestretch-image" src={require('../images/hs-kids.png')} alt="" />{' '}
-								<br />
-								THOSE KIDS U KNOW: An Encyclopedia of High School Deviants
-							</a>
-
-							<a
-								className="link-no-underline"
-								href="https://www.kickstarter.com/projects/adamctierney/those-kids-u-know-an-encyclopedia-of-high-school-deviants?ref=section-homepage-projectcollection-2-staff-picks-ending-soon"
-								target="_blank"
-								rel="noopener  noreferrer"
-							>
-								<br />
-								<p>
-									A funky fresh A-to-Z illustrated children's book (sorta?) about the different types
-									of high school kids!
-								</p>
-							</a>
-							<a
-								className="black-link"
-								href="https://www.kickstarter.com/projects/adamctierney/those-kids-u-know-an-encyclopedia-of-high-school-deviants?ref=section-homepage-projectcollection-2-staff-picks-ending-soon"
-								target="_blank"
-								rel="noopener  noreferrer"
-							>
-								<br />
-								By <span className="name-underline">Adam Tierney</span>
-							</a>
-						</div>
-
-						<div className="homestretch-text">
-							<a
-								className="homestretch-link"
-								href="https://www.kickstarter.com/projects/paul-du-coudray/the-orange-who-ruled-the-world?ref=section-homepage-projectcollection-3-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/thedollyrots/the-dollyrots-eat-my-heart-out-vinyl-reissue?ref=section-homepage-projectcollection-2-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<img
 									className="homestretch-image"
-									src={require('../images/hs-orange.jpg')}
+									src={require('../images/ff-dollyrots.png')}
 									alt=""
 								/>{' '}
 								<br />
-								The Orange Who Ruled The World
+								The Dollyrots: "Eat My Heart Out" Vinyl Reissue!
 							</a>
 
 							<a
 								className="link-no-underline"
-								href="https://www.kickstarter.com/projects/paul-du-coudray/the-orange-who-ruled-the-world?ref=section-homepage-projectcollection-3-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/thedollyrots/the-dollyrots-eat-my-heart-out-vinyl-reissue?ref=section-homepage-projectcollection-2-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
 								<p>
-									We aim to bring this story to life in a unique full-color book — illustrated by
-									Charlotte Dumortier and written by Benjamin Rosenbaum.
+									On its 15th Anniversary we're reissuing our debut album "Eat My Heart Out" on
+									limited deluxe vinyl!
 								</p>
 							</a>
 							<a
 								className="black-link"
-								href="https://www.kickstarter.com/projects/paul-du-coudray/the-orange-who-ruled-the-world?ref=section-homepage-projectcollection-3-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/thedollyrots/the-dollyrots-eat-my-heart-out-vinyl-reissue?ref=section-homepage-projectcollection-2-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								By <span className="name-underline">Paul du Coudray</span>
+								By <span className="name-underline">The Dollyrots</span>
 							</a>
 						</div>
 
 						<div className="homestretch-text">
 							<a
 								className="homestretch-link"
-								href="https://www.kickstarter.com/projects/briecs/homunculus-assembly-line?ref=section-homepage-projectcollection-4-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/nichtlustig/moviecliches?ref=section-homepage-projectcollection-3-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<img
 									className="homestretch-image"
-									src={require('../images/hs-assembly.png')}
+									src={require('../images/ff-movie.png')}
 									alt=""
 								/>{' '}
 								<br />
-								Homunculus Assembly Line
+								MOVIE CLICHÉS - the card game
 							</a>
 
 							<a
 								className="link-no-underline"
-								href="https://www.kickstarter.com/projects/briecs/homunculus-assembly-line?ref=section-homepage-projectcollection-4-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/nichtlustig/moviecliches?ref=section-homepage-projectcollection-3-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								<p>An experimental roleplaying game art zine.</p>
+								<p>A card game made by (bad) movies.</p>
 							</a>
-
 							<a
 								className="black-link"
-								href="https://www.kickstarter.com/projects/briecs/homunculus-assembly-line?ref=section-homepage-projectcollection-4-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/nichtlustig/moviecliches?ref=section-homepage-projectcollection-3-staff-picks-newest"
+								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								By <span className="name-underline">Brie Sheldon</span>
+								By <span className="name-underline">Joscha Sauer</span>
 							</a>
 						</div>
 
 						<div className="homestretch-text">
 							<a
 								className="homestretch-link"
-								href="https://www.kickstarter.com/projects/lotfw/leaders-of-the-free-world-issue-2?ref=section-homepage-projectcollection-5-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/elaineyounglabyrinth/amula-personalized-dna-jewellery?ref=section-homepage-projectcollection-4-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<img
 									className="homestretch-image"
-									src={require('../images/hs-issue.jpg')}
+									src={require('../images/ff-amula.jpg')}
 									alt=""
 								/>{' '}
 								<br />
-								Leaders of the Free World Issue #2
+								Amula | Personalized DNA Jewellery
 							</a>
 
 							<a
 								className="link-no-underline"
-								href="https://www.kickstarter.com/projects/lotfw/leaders-of-the-free-world-issue-2?ref=section-homepage-projectcollection-5-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/elaineyounglabyrinth/amula-personalized-dna-jewellery?ref=section-homepage-projectcollection-4-staff-picks-newest"
+								target="_blank"
+								rel="noopener  noreferrer"
+							>
+								<br />
+								<p>A modern twist on the traditional locket.</p>
+							</a>
+
+							<a
+								className="black-link"
+								href="https://www.kickstarter.com/projects/elaineyounglabyrinth/amula-personalized-dna-jewellery?ref=section-homepage-projectcollection-4-staff-picks-newest"
+								rel="noopener  noreferrer"
+							>
+								<br />
+								By <span className="name-underline">Elaine Young</span>
+							</a>
+						</div>
+
+						<div className="homestretch-text">
+							<a
+								className="homestretch-link"
+								href="https://www.kickstarter.com/projects/impostersshow/imposters?ref=section-homepage-projectcollection-5-staff-picks-newest"
+								target="_blank"
+								rel="noopener  noreferrer"
+							>
+								<img
+									className="homestretch-image"
+									src={require('../images/ff-imposters.png')}
+									alt=""
+								/>{' '}
+								<br />
+								Imposters
+							</a>
+
+							<a
+								className="link-no-underline"
+								href="https://www.kickstarter.com/projects/impostersshow/imposters?ref=section-homepage-projectcollection-5-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
 								<p>
-									Five heroes from around the world must put aside their differences & team up with a
-									super villain to save the world. But at what cost?
+									A group of hapless students are roped into a "diversity" initiative when an elite
+									university gets accused of white supremacy ties.
 								</p>
 							</a>
 							<a
 								className="black-link"
-								href="https://www.kickstarter.com/projects/lotfw/leaders-of-the-free-world-issue-2?ref=section-homepage-projectcollection-5-staff-picks-ending-soon"
+								href="https://www.kickstarter.com/projects/impostersshow/imposters?ref=section-homepage-projectcollection-5-staff-picks-newest"
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
 								<br />
-								By <span className="name-underline">Lakel Pruitt</span>
+								By <span className="name-underline">Sandie Cheng</span>
 							</a>
 						</div>
 					</div>
