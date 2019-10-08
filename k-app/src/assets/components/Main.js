@@ -4,7 +4,7 @@ import React from 'react';
 
 import { Feature } from './Feature';
 import { FreshFav } from './FreshFav';
-import { ShapeShift } from './Shapeshift';
+import { Shapeshift } from './Shapeshift';
 import { TakingOff } from './TakingOff';
 import { Design } from './Design';
 import { Creative } from './Creative';
@@ -45,6 +45,10 @@ export class Main extends React.Component {
 
 				<div>
 					<FreshFav />
+				</div>
+
+				<div>
+					<Shapeshift />
 				</div>
 
 				<div>
