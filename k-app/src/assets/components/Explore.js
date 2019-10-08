@@ -28,7 +28,7 @@ export class Explore extends React.Component {
 									alt=""
 								/>{' '}
 								<br />
-								10 artists on what social practice means to them
+								<p>10 artists on what social practice means to them</p>
 							</a>
 							<a
 								className="sub-link"
@@ -36,8 +36,7 @@ export class Explore extends React.Component {
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
-								<br />
-								kickstarter magazine
+								<p>kickstarter magazine</p>
 							</a>
 						</div>
 
@@ -54,7 +53,7 @@ export class Explore extends React.Component {
 									alt=""
 								/>{' '}
 								<br />
-								This fall, Dread Scott will recreate America's largest plantation uprising
+								<p>This fall, Dread Scott will recreate America's largest plantation uprising</p>
 							</a>
 							<a
 								className="sub-link"
@@ -62,8 +61,7 @@ export class Explore extends React.Component {
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
-								<br />
-								vanity fair
+								<p>vanity fair</p>
 							</a>
 						</div>
 
@@ -75,7 +73,7 @@ export class Explore extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<img className="left-image" src={require('../images/triwa-watch.jpg')} alt="" /> <br />
-								Made from melted-down firearms, TRIWA watches aim to end gun violence
+								<p>Made from melted-down firearms, TRIWA watches aim to end gun violence</p>
 							</a>
 							<a
 								className="sub-link"
@@ -83,8 +81,7 @@ export class Explore extends React.Component {
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
-								<br />
-								kickstarter magazine
+								<p>kickstarter magazine</p>
 							</a>
 						</div>
 
@@ -96,8 +93,10 @@ export class Explore extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<img className="left-image" src={require('../images/plate.jpg')} alt="" /> <br />
-								A Turner Prize sparked Grandby Workshop's ceramics studio; environmentalism fuels its
-								future
+								<p>
+									A Turner Prize sparked Grandby Workshop's ceramics studio; environmentalism fuels
+									its future
+								</p>
 							</a>
 							<a
 								className="sub-link"
@@ -105,8 +104,7 @@ export class Explore extends React.Component {
 								target="_blank"
 								rel="noopener  noreferrer"
 							>
-								<br />
-								Core77
+								<p>Core77</p>
 							</a>
 						</div>
 					</div>

@@ -39,6 +39,11 @@ h5 {
     padding-left: 50px;
 }
 
+.copyright-image {
+    height: 20px;
+    width: 20px;
+}
+
 .copy-social img {
     transform: translateY(6px);
 }
