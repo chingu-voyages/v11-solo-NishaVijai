@@ -11,6 +11,30 @@ export class Design extends React.Component {
 
 				<div className="design-text-container">
 					<div className="design-text">
+						{/* <div className="padding-l border-l bg-green">
+							<a
+								className="design-link left-line"
+								href="https://thecreativeindependent.com/guides/how-to-begin-designing-for-diversity/?ref=section-homepage-promo-designing-for-diversity"
+								target="_blank"
+								rel="noopener  noreferrer"
+							>
+								<img className="left-image" src={require('../images/1-Hero.png')} alt="" /> <br />
+								Designing for diversity
+							</a>
+
+							<a
+								className="link-no-underline left-line"
+								href="https://thecreativeindependent.com/guides/how-to-begin-designing-for-diversity/?ref=section-homepage-promo-designing-for-diversity"
+								target="_blank"
+								rel="noopener  noreferrer"
+							>
+								<br />
+								<p>
+									A guide to help you start building equitable products, services, and content,
+									written by Boyuan Gao and Jahan Mantin of Project Inkblot.
+								</p>
+							</a>
+						</div> */}
 						<a
 							className="design-link left-line"
 							href="https://thecreativeindependent.com/guides/how-to-begin-designing-for-diversity/?ref=section-homepage-promo-designing-for-diversity"
@@ -28,8 +52,10 @@ export class Design extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<br />
-							A guide to help you start building equitable products, services, and content, written by
-							Boyuan Gao and Jahan Mantin of Project Inkblot.
+							<p>
+								A guide to help you start building equitable products, services, and content, written by
+								Boyuan Gao and Jahan Mantin of Project Inkblot.
+							</p>
 						</a>
 						<a
 							className="blue-link"
@@ -60,8 +86,10 @@ export class Design extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<br />
-							Our new podcast features stories about how independent creators bring their ideas to life.
-							Listen to the first season now.
+							<p>
+								Our new podcast features stories about how independent creators bring their ideas to
+								life. Listen to the first season now.
+							</p>
 						</a>
 						<a
 							className="blue-link"
