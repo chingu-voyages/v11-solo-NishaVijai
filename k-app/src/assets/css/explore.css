@@ -1,0 +1,35 @@
+.explore-content {
+    /* margin: 40px 0;
+    text-align: left; */
+}
+
+.container-title {
+    margin: 40px 0;
+    text-align: left;
+}
+
+.explore-text-container {
+    /* display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(4, 1fr); */
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    margin: 20px 0;
+    text-align: left;
+}
+
+.explore-text {
+    /* display: flex; */
+}
+
+.sub-link {
+    text-transform: capitalize;
+
+}
+
+.copyright-image {
+    height: 20px;
+    width: 20px;
+}
+

@@ -1,0 +1,23 @@
+.creative-text-container {
+    display: flex;
+    margin: 40px 0 60px 0;
+    text-align: left;
+}
+
+.people-links img {
+    height: 120px;
+    width: 120px;
+}
+
+.creative-text img {
+    height: 70px;
+    width: 80px;
+}
+
+.creative-people {
+    display: flex;
+}
+
+.creative-link-people:hover {
+    color: #282828;
+}

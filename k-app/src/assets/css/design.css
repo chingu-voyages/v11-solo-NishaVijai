@@ -1,0 +1,23 @@
+.design-text-container {
+    display: flex;
+    margin: 30px 0 50px 0;
+    text-align: left;
+}
+
+
+.design-text:hover {
+    cursor: pointer;
+}
+
+.link-no-undeline:hover {
+    color: #282828;
+    text-decoration: none;
+}
+
+.blue-link {
+    color: #4C6CF8;
+}
+
+.blue-link:hover {
+    color: #4C6CF8;
+}

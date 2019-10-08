@@ -1,0 +1,64 @@
+.homestretch-content {
+    padding: 20px 40px;
+}
+
+.homestretch-text-container {
+    display: flex;
+    text-align: start;
+}
+
+.homestretch-text {
+    min-width: 20%;
+    padding: 0 15px 55px 15px;
+}
+
+.homestretch-text a {
+    padding: 12px 0 0 0;
+}
+
+.homestretch-link  {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.homestretch-text img {
+    border-bottom: 5px solid #037362;
+    border-width: 80%;
+    font-weight: 700;
+    height: 130px;
+    width: 250px;
+}
+
+.homestretch-text img, .homestretch-text p {
+    color: black;
+}
+
+.homestretch-link:hover {
+    color: #037362;
+    text-decoration: underline;
+}
+
+.homestretch-text p {
+    padding: 12px 0 0 0;
+}
+
+.homestretch-text p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.homestretch-text p:hover {
+    text-decoration: none;
+}
+
+.black-link {
+    cursor: auto;
+    fill: #656969;
+    font-size: 11px;
+    line-height: 18px;
+}
+
+.name-underline:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

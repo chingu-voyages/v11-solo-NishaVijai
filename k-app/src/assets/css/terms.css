@@ -1,0 +1,12 @@
+.link-text {
+    font-size: 12px;
+    line-height: 18px;
+    margin: 30px;
+    padding-left: 40px;
+    text-align: start;
+}
+
+.link-text a:hover {
+    color: #037362;
+    text-decoration: underline;
+}
