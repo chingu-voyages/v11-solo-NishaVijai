@@ -29,7 +29,7 @@
 } */
 
 .design-text img {
-    height: 240px;
+    height: 250px;
     width: 580px;
 }
 
@@ -43,7 +43,6 @@
 .link-no-underline {
     font-size: 15px;
     line-height: 24px;
-    /* padding-top: 20px; */
 }
 
 .link-no-undeline:hover {

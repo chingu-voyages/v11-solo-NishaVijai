@@ -1,6 +1,5 @@
 import React from 'react';
 import '../css/design.css';
-
 export class Shapeshift extends React.Component {
 	render() {
 		return (
@@ -28,7 +27,7 @@ export class Shapeshift extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<br />
-							Bold new products made from recycled materials.
+							<p>Bold new products made from recycled materials.</p>
 						</a>
 						<a
 							className="blue-link"
@@ -59,7 +58,9 @@ export class Shapeshift extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<br />
-							Explore projects from UK-based artists highlighting urgent social and political issues.
+							<p>
+								Explore projects from UK-based artists highlighting urgent social and political issues.
+							</p>
 						</a>
 						<a
 							className="blue-link"
