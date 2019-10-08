@@ -1,12 +1,11 @@
 import React from 'react';
 import '../css/homeStretch.css';
-
 export class HomeStretch extends React.Component {
 	render() {
 		return (
 			<div>
 				<div>
-					<hr className="horiz-line" />
+					<hr className="thin-horiz-line" />
 				</div>
 
 				<div className="homestretch-content">

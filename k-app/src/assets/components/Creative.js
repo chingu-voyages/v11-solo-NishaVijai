@@ -6,7 +6,7 @@ export class Creative extends React.Component {
 		return (
 			<div>
 				<div>
-					<hr className="horiz-line" />
+					<hr className="thin-horiz-line" />
 				</div>
 
 				<div className="creative-text-container">

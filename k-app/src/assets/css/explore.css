@@ -1,5 +1,10 @@
-.container-title {
-    padding: 50px 0 20px 20px;
+/* .container-title {
+    padding: 50px 0 30px 30px;
+    text-align: start;
+} */
+
+.explore-content h4 {
+    padding: 50px 0 30px 50px;
     text-align: start;
 }
 

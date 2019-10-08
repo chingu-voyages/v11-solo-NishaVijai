@@ -6,7 +6,7 @@ export class Design extends React.Component {
 		return (
 			<div>
 				<div>
-					<hr className="horiz-line" />
+					<hr className="thin-horiz-line" />
 				</div>
 
 				<div className="design-text-container">
