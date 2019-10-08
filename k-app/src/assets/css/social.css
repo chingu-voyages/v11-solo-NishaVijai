@@ -1,0 +1,12 @@
+.social-media-links {
+    overflow-y: hidden;
+}
+
+.social-media-links a {
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.social-media-links a:hover {
+    color: #037362;
+}

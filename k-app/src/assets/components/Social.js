@@ -1,4 +1,5 @@
 import React from 'react';
+import '../css/social.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faInstagram, faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
@@ -11,7 +12,7 @@ export default function Social() {
 				target="_blank"
 				rel="noopener  noreferrer"
 			>
-				<FontAwesomeIcon icon={faFacebook} size="1x" />
+				<FontAwesomeIcon icon={faFacebook} />
 			</a>
 
 			<a
@@ -20,7 +21,7 @@ export default function Social() {
 				target="_blank"
 				rel="noopener  noreferrer"
 			>
-				<FontAwesomeIcon icon={faInstagram} size="1x" />
+				<FontAwesomeIcon icon={faInstagram} />
 			</a>
 
 			<a
@@ -29,7 +30,7 @@ export default function Social() {
 				target="_blank"
 				rel="noopener  noreferrer"
 			>
-				<FontAwesomeIcon icon={faTwitter} size="1x" />
+				<FontAwesomeIcon icon={faTwitter} />
 			</a>
 
 			<a

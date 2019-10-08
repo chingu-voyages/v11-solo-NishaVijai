@@ -1,11 +1,7 @@
 import React from 'react';
-import '../css/footerSocial.css';
-
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faKickstarterK } from '@fortawesome/free-brands-svg-icons';
 
 import Social from '../components/Social';
-
+import '../css/footerSocial.css';
 export class FooterSocial extends React.Component {
 	render() {
 		return (
@@ -19,7 +15,7 @@ export class FooterSocial extends React.Component {
 						<h5>about</h5>
 						<div className="anchor">
 							<a
-								className="link"
+								className="link-text"
 								href="https://www.kickstarter.com/about?ref=global-footer"
 								target="_blank"
 								rel="noopener  noreferrer"
@@ -176,13 +172,11 @@ export class FooterSocial extends React.Component {
 					</div>
 				</div>
 
-				<div className="m-links-social cont">
+				<div className="m-links-social">
 					<div className="copy-social">
 						<p>
-							{/* <FontAwesomeIcon icon={faKickstarterK} size="1x" />{' '}
-							<span>Kickstarter, PBC &copy; 2019</span> */}
 							<img className="copyright-image" src={require('../images/svgexport-79.png')} alt="" />
-							<span>Kickstarter, PBC &copy; 2019</span>
+							<span> Kickstarter, PBC &copy; 2019</span>
 						</p>
 					</div>
 					<div className="copy-social-icons">
