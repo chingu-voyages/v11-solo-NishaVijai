@@ -1,11 +1,24 @@
 /* vertical line */
-.feature-container hr {
-    border: 0.5px solid #e7e6e6;
+.thin-vertical-line {
+    /* border: 0.5px solid #e7e6e6; */
+    /* color: #e7e6e6;
     size: 500px;
-    width: 1px;
+    width: 1px; */
+    /* padding: 0 20px; */
 }
 
+/* horizontal line */
+/* .f-right hr {
+    border: 0.5px solid #e7e6e6;
+} */
+
 /* feature component */
+/* feature left */
+.feature-left {
+    /* padding: 0 120px 0 10px; */
+    padding-right: 120px;
+}
+
 .feature-title h4 {
     padding: 0 0 20px 10px;
 }
@@ -36,6 +49,8 @@
 .feature-right {
     /* display: flex;
     flex-direction: column; */
+    padding-left: 30px;
+    /* padding-right: 40px; */
 }
 
 .feature-right img {
@@ -51,12 +66,45 @@
 
 .f-right {
     display: flex;
+    padding: 20px;
+}
+
+.p-right {
+    font-size: 13px;
+    /* font-weight: 500; */
+    line-height: 21px;
+    overflow-y: hidden;
+    text-align: left;
+    /* max-width: 100%; */
+    /* min-width: 200px; */
+    width: 100%
+}
+
+.p-text {
+    /* width: 100%; */
+}
+
+.right-green-font {
+    color: #037362;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    padding-top: 5px;
+}
+
+.span-text {
+    margin-top: -10px;
 }
 
 /* heart and remind me description */
+.heart-right {
+    display: flex;
+}
+
 .heart-right img {
     height:20px;
     width: 20px;
+    margin: auto;
 }
 
 /* .heart-right {
