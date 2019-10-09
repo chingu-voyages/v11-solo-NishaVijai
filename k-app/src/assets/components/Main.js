@@ -1,6 +1,4 @@
 import React from 'react';
-// import '../css/footer.css';
-// import '../css/terms.css';
 
 import { Feature } from './Feature';
 import { FreshFav } from './FreshFav';
@@ -15,33 +13,9 @@ export class Main extends React.Component {
 	render() {
 		return (
 			<div className="main-contents">
-				{/* <div>
+				<div>
 					<Feature />
 				</div>
-
-				<div>
-					<FreshFav />
-				</div>
-
-				<div>
-					<ShapeShift />
-				</div>
-
-				<div>
-					<TakingOff />
-				</div>
-
-				<div>
-					<Design />
-				</div>
-
-				<div>
-					<Creative />
-				</div>
-
-				<div>
-					<HomeStretch />
-				</div> */}
 
 				<div>
 					<FreshFav />

@@ -1,0 +1,83 @@
+/* vertical line */
+.feature-container hr {
+    border: 0.5px solid #e7e6e6;
+    size: 500px;
+    width: 1px;
+}
+
+/* feature component */
+.feature-title h4 {
+    padding: 0 0 20px 10px;
+}
+
+.f-p-l {
+    /* margin-left: 10px; */
+}
+
+.feature-left img {
+    border-bottom: 10px solid #037362;
+    font-size: 28px;
+    line-height: 36px;
+    height: 350px;
+    width: 620px;
+}
+
+.feature-left p {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.feature-left span {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+/* feature-right */
+.feature-right {
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.feature-right img {
+    border-bottom: none;
+    height: 90px;
+    width: 160px;
+}
+
+.feature-right-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.f-right {
+    display: flex;
+}
+
+/* heart and remind me description */
+.heart-right img {
+    height:20px;
+    width: 20px;
+}
+
+/* .heart-right {
+    position: relative;
+    height: 30px;
+    width: 30px;
+} */
+
+/* .heart-desc {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(29, 106, 154, 0.72);
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+} */
+/* 
+.heart-right:hover .heart-desc {
+    visibility: visible;
+    opacity: 1;
+} */
