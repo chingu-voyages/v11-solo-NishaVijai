@@ -8,7 +8,9 @@ export class Header extends React.Component {
 	render() {
 		return (
 			<div className="footer-contents">
-				<div>{/* <Top /> */}</div>
+				<div>
+					<Top />
+				</div>
 
 				<div>
 					<Navigation />

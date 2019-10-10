@@ -1,0 +1,42 @@
+.top-text-container {
+    background-color: #F9EFEC;
+    display: grid;
+    grid-template-columns: 300px 1fr 300px;
+    padding: 40px;
+}
+
+.top-text-container img {
+    height: 150px;
+    margin: auto;
+    width: 150px;
+}
+
+.top-middle {
+    color: #0A007D;
+    overflow: hidden;
+    text-align: center;
+}
+
+.top-m-first {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+.top-m-second {
+    font-size: 18px;
+    line-height: 26px;
+    padding-top: 20px;
+}
+
+.top-m-third {
+    background: #0A007D;
+    color: white;
+    font-size: 14px;
+    height: 42px;
+    line-height: 42px;
+    margin: auto;
+    padding: 0 40px;
+    text-align: center;
+    width: 210px;
+}
