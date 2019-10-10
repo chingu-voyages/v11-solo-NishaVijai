@@ -1,0 +1,16 @@
+.link-header-text {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 20px 40px;
+    text-align: center;
+}
+
+
+.link-header-text a:hover {
+    color: #037362;
+    text-decoration: underline;
+}
+
+.link-header-text a {
+    padding-right: 20px;
+}

@@ -19,7 +19,9 @@ class App extends React.Component {
 					Learn React
 				</a>
 			</header> */}
-				<div className="header-container">{/* <Header /> */}</div>
+				<div className="header-container">
+					<Header />
+				</div>
 
 				<div className="main-container">
 					<Main />
