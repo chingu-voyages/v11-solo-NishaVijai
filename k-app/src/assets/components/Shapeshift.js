@@ -17,7 +17,7 @@ export class Shapeshift extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<img className="left-image" src={require('../images/plant-recycle.jpg')} alt="" /> <br />
-							Shapeshift
+							<p className="left-black-line-text">Shapeshift</p>
 						</a>
 
 						<a
@@ -36,7 +36,7 @@ export class Shapeshift extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<br />
-							View projects
+							<p>View projects</p>
 						</a>
 					</div>
 
@@ -48,7 +48,7 @@ export class Shapeshift extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<img className="left-image" src={require('../images/smile-people.jpg')} alt="" /> <br />
-							Kickstarter x Social Art Network
+							<p className="left-black-line-text">Kickstarter x Social Art Network</p>
 						</a>
 
 						<a
@@ -69,7 +69,7 @@ export class Shapeshift extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<br />
-							View projects
+							<p>View projects</p>
 						</a>
 					</div>
 				</div>
