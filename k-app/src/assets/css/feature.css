@@ -1,8 +1,12 @@
 /* feature component */
+.feature-container {
+    display: grid;
+    grid-template-columns: 1fr 1px 550px;
+}
+
 /* feature left */
 .feature-left {
-    padding-left: 10px;
-    padding-right: 120px;
+    padding-left: 20px;
 }
 
 .feature-title h4 {
@@ -11,15 +15,21 @@
 
 .feature-left img {
     border-bottom: 10px solid #037362;
-    font-size: 28px;
-    line-height: 36px;
     height: 350px;
     width: 620px;
 }
 
+.tilt-five p {
+    font-size: 28px;
+    line-height: 36px;
+}
+
 .feature-left p {
-    font-size: 18px;
-    line-height: 24px;
+    padding-left: 12px;
+}
+
+.feature-no-underline p {
+    margin-top: -10px;
 }
 
 .feature-left span {
@@ -27,19 +37,17 @@
     line-height: 18px;
 }
 
-.f-p-l p {
-    font-size: 12px;
-    line-height: 18px;
-    padding-left: 10px;
-}
-
 /* feature-right */
 .feature-right {
     padding-left: 30px;
 }
 
+.feature-right h4 {
+    padding-left: 15px;
+}
+
 .feature-right img {
-    border-bottom: none;
+    /* border-bottom: none; */
     height: 90px;
     width: 160px;
 }
@@ -58,6 +66,7 @@
     font-size: 13px;
     line-height: 21px;
     overflow-y: hidden;
+    padding-left: 20px;
     text-align: left;
     width: 100%
 }
@@ -77,10 +86,12 @@
 /* heart and remind me description */
 .heart-right {
     display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 .heart-right img {
     height:20px;
     width: 20px;
-    margin: auto;
+    /* margin: auto; */
 }
