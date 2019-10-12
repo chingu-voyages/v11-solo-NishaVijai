@@ -40,3 +40,7 @@
     text-align: center;
     width: 210px;
 }
+
+.top-m-third:hover {
+    background: rgb(57, 57, 112);
+}

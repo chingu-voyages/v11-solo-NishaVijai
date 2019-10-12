@@ -22,9 +22,6 @@ export class HomeStretch extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<img className="homestretch-image" src={require('../images/hs-stories.jpg')} alt="" />
-								{/* <button>
-									<img className="heart" src={require('../images/svgexport-8.png')} alt="" />Remind Me
-								</button> */}
 								<br />
 								Stories II
 							</a>

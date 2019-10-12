@@ -23,9 +23,6 @@ export class FreshFav extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<img className="homestretch-image" src={require('../images/ff-mother.jpg')} alt="" />
-								{/* <button>
-									<img className="heart" src={require('../images/svgexport-8.png')} alt="" />Remind Me
-								</button> */}
 								<br />
 								THE WOOSTER GROUP / THE MOTHER / HELP!
 							</a>

@@ -16,13 +16,13 @@ export class Feature extends React.Component {
 							<h4>featured project</h4>
 						</div>
 						<a
-							className="design-link"
+							className="design-link tilt-five-text f-p-l"
 							href="https://www.kickstarter.com/projects/tiltfive/holographic-tabletop-gaming?ref=section-homepage-featured-project"
 							target="_blank"
 							rel="noopener  noreferrer"
 						>
 							<img className="left-image f-p-l" src={require('../images/tiltfive.jpg')} alt="" /> <br />
-							Tilt Five: Holographic Tabletop Gaming
+							<p className="tilt-text tilt-heading">Tilt Five: Holographic Tabletop Gaming</p>
 						</a>
 
 						<a
@@ -32,7 +32,7 @@ export class Feature extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<br />
-							<p>Take game night to another dimension.</p>
+							<p className="tilt-text tilt-p">Take game night to another dimension.</p>
 						</a>
 						<a
 							className="black-link f-p-l"
@@ -41,7 +41,9 @@ export class Feature extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<br />
-							By <span className="name-underline">Tilt Five</span>
+							<p className="tilt-text">
+								By <span className="name-underline">Tilt Five</span>
+							</p>
 						</a>
 					</div>
 
