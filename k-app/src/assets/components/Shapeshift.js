@@ -11,17 +11,17 @@ export class Shapeshift extends React.Component {
 				<div className="design-text-container">
 					<div className="design-text">
 						<a
-							className="design-link left-line"
+							className="design-link"
 							href="https://www.kickstarter.com/shapeshift?ref=section-homepage-promo-shapeshift"
 							target="_blank"
 							rel="noopener  noreferrer"
 						>
-							<img className="left-image" src={require('../images/plant-recycle.jpg')} alt="" /> <br />
-							<p className="left-black-line-text">Shapeshift</p>
+							<img className="" src={require('../images/plant-recycle.jpg')} alt="" /> <br />
+							<p>Shapeshift</p>
 						</a>
 
 						<a
-							className="link-no-underline left-line"
+							className="link-no-underline ds-link"
 							href="https://www.kickstarter.com/shapeshift?ref=section-homepage-promo-shapeshift"
 							target="_blank"
 							rel="noopener  noreferrer"
@@ -42,17 +42,17 @@ export class Shapeshift extends React.Component {
 
 					<div className="design-text">
 						<a
-							className="design-link left-line"
+							className="design-link"
 							href="https://www.kickstarter.com/social-art-network?ref=section-homepage-promo-kickstarter-x-social-art-network"
 							target="_blank"
 							rel="noopener  noreferrer"
 						>
-							<img className="left-image" src={require('../images/smile-people.jpg')} alt="" /> <br />
-							<p className="left-black-line-text">Kickstarter x Social Art Network</p>
+							<img className="" src={require('../images/smile-people.jpg')} alt="" /> <br />
+							<p>Kickstarter x Social Art Network</p>
 						</a>
 
 						<a
-							className="link-no-underline left-line"
+							className="link-no-underline ds-link"
 							href="https://www.kickstarter.com/social-art-network?ref=section-homepage-promo-kickstarter-x-social-art-network"
 							target="_blank"
 							rel="noopener  noreferrer"

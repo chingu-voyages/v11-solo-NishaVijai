@@ -20,57 +20,27 @@
     line-height: 36px;
 }
 
-/* working hover over image */
+.design-link p {
+    padding-left: 10px;
+}
+
 .design-link:hover {
     color: #037362;
     text-decoration: underline;
 }
 
-.design-link div > p:hover {
-    /* color: #037362;
-    text-decoration: underline; */
-}
-
-div > p:hover {
-    /* color: #037362;
-    text-decoration: underline; */
-}
-
-.thick-vert-line {
-    /* border-left: 6px solid red;
-    height: 100px;
-    size: 1; */
-}
-
-/* working */
-.left-line p:nth-child(2) {
-    color: black;
-    /* background: red; */
-    text-decoration: none;
-}
-
-.left-line p {
-    border-left: 6px solid black;
-    margin-left: 10px;
-    padding: 0px 30px 0px 15px;
-}
-
-.new-flex {
-    /* display: grid;
-    grid-template-columns: 10px 1fr; */
-}
-
-.left-black-line-text {
-    padding-top: 10px;
-}
-
-.left-black-line-text p:nth-child(2) {
-    padding-top: 20px;
-}
-
 .link-no-underline {
     font-size: 16px;
     line-height: 24px;
+}
+
+.link-no-underline p {
+    padding-left: 10px;
+}
+
+.ds-link p {
+    margin-top: -20px;
+    max-width: 580px;
 }
 
 .link-no-undeline:hover {
@@ -89,34 +59,6 @@ div > p:hover {
 }
 
 .blue-link p {
-    padding-left: 10px;
     margin-top: -20px;
+    padding-left: 10px;
 }
-
-
-/* test hover */
-/* a:nth-child(2) {
-    color: red;
-} */
-
-/* working - choosing the first child under a */
-a:first-child:hover {
-    /* color: red; */
-}
-
-/* working to hover over p */
-p:first-child:hover {
-    /* color: #037362;
-    text-decoration: underline; */
-}
-
-/* a:nth-child(2):hover {
-    color: #037362;
-    text-decoration: underline;
-} */
-
-/* a:first-child:hover {
-    color: #037362;
-    text-decoration: underline;
-} */
-/* test hover ends */
