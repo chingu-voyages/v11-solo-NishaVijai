@@ -1,12 +1,9 @@
 .creative-text-container {
-    display: flex;
-    margin: 40px 0 60px 0;
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    /* margin: 40px 40px 60px 40px; */
+    padding: 40px 50px 60px 60px;
     text-align: left;
-}
-
-.people-links img {
-    height: 120px;
-    width: 120px;
 }
 
 .creative-text img {
@@ -14,10 +11,57 @@
     width: 80px;
 }
 
+.yellow-bg {
+    background-image: linear-gradient(to left, rgb(255, 255, 255) 5%, rgba(255,255,0) 20%);
+    font-size: 28px;
+    margin-top: 15px;
+    padding-left: 10px;
+}
+
+.creative-left {
+    font-size: 16px;
+    line-height: 24px;
+    max-width: 270px;
+    padding-top: 15px;
+}
+
+/* creative-right */
 .creative-people {
-    display: flex;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 600px; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.people-links img {
+    height: 120px;
+    width: 120px;
 }
 
 .creative-link-people:hover {
     color: #282828;
 }
+
+.people-name {
+    font-size: 16px;
+    line-height: 21px;
+    padding-top: 10px;
+}
+
+.about-people {
+    font-size: 10px;
+    line-height: 18px;
+    max-width: 180px;
+    padding-top: 10px;
+}
+
+.people-folder h5:hover {
+    /* text-decoration: underline; */
+}
+
+.people-folde a:first-child:hover {
+    text-decoration: underline;
+}
+

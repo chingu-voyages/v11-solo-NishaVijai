@@ -12,8 +12,10 @@ export class Creative extends React.Component {
 				<div className="creative-text-container">
 					<div className="creative-text">
 						<img className="spiral-image" src={require('../images/svgexport-56.png')} alt="" /> <br />
-						<h2>The Creative Independent</h2>
-						<p>A growing resource of emotional and practical guidance for creative people.</p>
+						<h2 className="yellow-bg">The Creative Independent</h2>
+						<p className="creative-left">
+							A growing resource of emotional and practical guidance for creative people.
+						</p>
 						<a
 							className="blue-link"
 							href="https://thecreativeindependent.com/?ref=section-homepage-tci-cta"
@@ -21,31 +23,41 @@ export class Creative extends React.Component {
 							rel="noopener  noreferrer"
 						>
 							<br />
-							Visit The Creative Independent
+							<p className="about-people">Visit The Creative Independent</p>
 						</a>
 					</div>
 
 					<div className="creative-people">
 						<div className="people-links">
-							<a
-								className="creative-link-people"
-								href="https://thecreativeindependent.com/people/filmmaker-desiree-akhavan-on-working-on-both-sides-of-the-camera/?ref=section-homepage-tci-article-desiree-akhavan"
-								target="_blank"
-								rel="noopener  noreferrer"
-							>
-								<img className="people-image" src={require('../images/Desiree@2x.jpg')} alt="" /> <br />
-								Desiree Akhavan
-							</a>
+							<div className="people-folder">
+								<a
+									className="creative-link-people"
+									href="https://thecreativeindependent.com/people/filmmaker-desiree-akhavan-on-working-on-both-sides-of-the-camera/?ref=section-homepage-tci-article-desiree-akhavan"
+									target="_blank"
+									rel="noopener  noreferrer"
+								>
+									<img
+										className="people-image"
+										src={require('../images/Desiree@2x.jpg')}
+										alt=""
+									/>{' '}
+									<br />
+									<div>
+										<h5 className="people-name">Desiree Akhavan</h5>
+										<p className="about-people">on working on both sides of the camera</p>
+									</div>
+								</a>
 
-							<a
-								className="link-no-undeline"
-								href="https://thecreativeindependent.com/people/filmmaker-desiree-akhavan-on-working-on-both-sides-of-the-camera/?ref=section-homepage-tci-article-desiree-akhavan"
-								target="_blank"
-								rel="noopener  noreferrer"
-							>
-								<br />
-								On working on both sides of the camera
-							</a>
+								{/* <a
+									className="link-no-undeline"
+									href="https://thecreativeindependent.com/people/filmmaker-desiree-akhavan-on-working-on-both-sides-of-the-camera/?ref=section-homepage-tci-article-desiree-akhavan"
+									target="_blank"
+									rel="noopener  noreferrer"
+								>
+									<br />
+									<p className="about-people">on working on both sides of the camera</p>
+								</a> */}
+							</div>
 						</div>
 						<div className="people-links">
 							<a
@@ -55,7 +67,7 @@ export class Creative extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<img className="people-image" src={require('../images/Alicia@2x.jpg')} alt="" /> <br />
-								Alicia Bognanno
+								<p className="people-name">Alicia Bognanno</p>
 							</a>
 
 							<a
@@ -65,7 +77,7 @@ export class Creative extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<br />
-								on managing your creative time
+								<p className="about-people">on managing your creative time</p>
 							</a>
 						</div>
 
@@ -77,7 +89,7 @@ export class Creative extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<img className="people-image" src={require('../images/Naama@2x.jpg')} alt="" /> <br />
-								Naama Tsabar
+								<p className="people-name">Naama Tsabar</p>
 							</a>
 
 							<a
@@ -87,7 +99,7 @@ export class Creative extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<br />
-								on taking control of your process
+								<p className="about-people">on taking control of your process</p>
 							</a>
 						</div>
 
@@ -99,7 +111,7 @@ export class Creative extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<img className="people-image" src={require('../images/Bjork@2x.jpg')} alt="" /> <br />
-								Björk
+								<p className="people-name">Björk</p>
 							</a>
 
 							<a
@@ -109,7 +121,7 @@ export class Creative extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<br />
-								on nature and technology
+								<p className="about-people">on nature and technology</p>
 							</a>
 						</div>
 
@@ -121,7 +133,7 @@ export class Creative extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<img className="people-image" src={require('../images/John@2x.jpg')} alt="" /> <br />
-								John Cale
+								<p className="people-name">John Cale</p>
 							</a>
 
 							<a
@@ -131,7 +143,7 @@ export class Creative extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<br />
-								on revisiting your work
+								<p className="about-people">on revisiting your work</p>
 							</a>
 						</div>
 
@@ -143,7 +155,7 @@ export class Creative extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<img className="people-image" src={require('../images/Stevie@2x.jpg')} alt="" /> <br />
-								Stevie Nicks
+								<p className="people-name">Stevie Nicks</p>
 							</a>
 
 							<a
@@ -153,7 +165,7 @@ export class Creative extends React.Component {
 								rel="noopener  noreferrer"
 							>
 								<br />
-								on the importance of being a romantic
+								<p className="about-people">on the importance of being a romantic</p>
 							</a>
 						</div>
 					</div>
