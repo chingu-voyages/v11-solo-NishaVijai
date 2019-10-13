@@ -21,9 +21,7 @@
 
 .explore-text {
     display: block;
-    height: 100%;
     overflow: hidden;
-    width: 100%; 
 }
 
 .left-image {
@@ -39,6 +37,7 @@
     line-height: 18px;
     text-transform: capitalize;
     padding-left: 10px;
+    padding-top: -20px;
 }
 
 .sub-link p:hover {
