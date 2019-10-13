@@ -56,11 +56,28 @@ export class Feature extends React.Component {
 						<div className="feature-right-content">
 							<div className="f-right first">
 								<div className="image-right">
-									<img className="" src={require('../images/ff-movie.png')} alt="" />
+									<a
+										className=""
+										href="https://www.kickstarter.com/projects/nichtlustig/moviecliches?ref=section-homepage-projectcollection-3-staff-picks-newest"
+										target="_blank"
+										rel="noopener  noreferrer"
+									>
+										<br />
+										<img className="" src={require('../images/ff-movie.png')} alt="" />
+									</a>
 								</div>
 
 								<div className="p-right">
-									<p className="p-text">MOVIE CLICHÉS - the card game</p>
+									<a
+										className="p-right-hover"
+										href="https://www.kickstarter.com/projects/nichtlustig/moviecliches?ref=section-homepage-projectcollection-3-staff-picks-newest"
+										target="_blank"
+										rel="noopener  noreferrer"
+									>
+										<br />
+										<p>MOVIE CLICHÉS - the card game</p>
+									</a>
+									{/* <p className="p-text">MOVIE CLICHÉS - the card game</p> */}
 									<p className="right-green-font">220% funded</p>
 									<a
 										className="black-link"
@@ -89,12 +106,27 @@ export class Feature extends React.Component {
 
 							<div className="f-right second">
 								<div className="image-right">
-									<img className="" src={require('../images/to-everspace.jpg')} alt="" />
+									<a
+										className=""
+										href="https://www.kickstarter.com/projects/rockfishgames/everspace-2?ref=section-homepage-projectcollection-3-staff-picks-popular"
+										target="_blank"
+										rel="noopener  noreferrer"
+									>
+										<br />
+										<img className="" src={require('../images/to-everspace.jpg')} alt="" />
+									</a>
 								</div>
 
 								<div className="p-right">
-									<p>EVERSPACE 2</p>
-
+									<a
+										className="p-right-hover"
+										href="https://www.kickstarter.com/projects/rockfishgames/everspace-2?ref=section-homepage-projectcollection-3-staff-picks-popular"
+										target="_blank"
+										rel="noopener  noreferrer"
+									>
+										<br />
+										<p>EVERSPACE 2</p>
+									</a>
 									<p className="right-green-font">35% funded</p>
 									<a
 										className="black-link"
@@ -123,16 +155,32 @@ export class Feature extends React.Component {
 
 							<div className="f-right third">
 								<div className="image-right">
-									<img className="" src={require('../images/to-legends.jpg')} alt="" />
+									<a
+										className=""
+										href="https://www.kickstarter.com/projects/1162110258/time-of-legends-joan-of-arc-15?ref=section-homepage-projectcollection-4-staff-picks-popular"
+										target="_blank"
+										rel="noopener  noreferrer"
+									>
+										<br />
+										<img className="" src={require('../images/to-legends.jpg')} alt="" />
+									</a>
 								</div>
 
 								<div className="p-right">
-									<p>Time of Legends: Joan of Arc 1.5</p>
-
+									<a
+										className="p-right-hover"
+										href="https://www.kickstarter.com/projects/1162110258/time-of-legends-joan-of-arc-15?ref=section-homepage-projectcollection-4-staff-picks-popular"
+										target="_blank"
+										rel="noopener  noreferrer"
+									>
+										<br />
+										<p>Time of Legends: Joan of Arc 1.5</p>
+									</a>
 									<p className="right-green-font">617% funded</p>
 									<a
 										className="black-link"
 										href="https://www.kickstarter.com/projects/1162110258/time-of-legends-joan-of-arc-15?ref=section-homepage-projectcollection-4-staff-picks-popular"
+										target="_blank"
 										rel="noopener  noreferrer"
 									>
 										<br />

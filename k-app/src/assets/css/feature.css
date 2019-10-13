@@ -47,7 +47,6 @@
 }
 
 .feature-right img {
-    /* border-bottom: none; */
     height: 90px;
     width: 160px;
 }
@@ -71,12 +70,16 @@
     width: 100%
 }
 
+.p-right-hover p:hover {
+    color: #023a31;
+    text-decoration: underline;
+}
+
 .right-green-font {
     color: #037362;
     font-size: 12px;
     font-weight: 700;
     line-height: 18px;
-    padding-top: 5px;
 }
 
 .span-text {
