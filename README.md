@@ -6,7 +6,7 @@ Got inspired by kickstarter website: https://www.kickstarter.com/
 
 ## Live project
 
-https://cloned-kickstarter.netlify.com/
+https://clonedkickstarter.netlify.app/
 
 ## Languages and libraries
 
